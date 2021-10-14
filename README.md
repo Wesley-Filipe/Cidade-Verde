@@ -1,7 +1,7 @@
 # Cidade-Verde
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://initiate.alphacoders.com/images/890/cropped-550-280-890840.png?790)
 
 # Sobre o Projeto
 

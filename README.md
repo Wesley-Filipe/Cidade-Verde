@@ -1,7 +1,7 @@
 # Cidade-Verde
 
 
-![Capa do Projeto](https://i.ibb.co/kHYPd8x/pngwing-com.png)
+![Capa do Projeto](https://ibb.co/DQ8FpTn)
 
 # Sobre o Projeto
 
